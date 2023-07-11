@@ -1,0 +1,43 @@
+4
+08:00 21:00
+10
+07:45 1 _serg23_
+08:20 1 -client1-
+08:20 1 -elena5-
+08:24 1 _kent13
+08:35 1 _serg23_
+09:04 1 client2
+09:11 1 _serg23_
+09:37 3 client1
+09:46 2 _serg23_ 1
+09:52 2 -client1- 1
+09:59 2 -elena5- 3
+10:01 2 -client1- 4
+10:18 3 _kent13
+10:25 2 client2 2
+10:25 2 _kent13 2
+10:28 3 _kent13
+10:44 1 client3
+10:49 3 _serg23_
+10:51 1 _den09
+10:51 1 -client4-
+10:55 1 client5
+10:56 2 client3 3
+10:59 3 client3
+11:00 3 -client4-
+11:01 3 _kent13
+11:07 3 _den09
+11:15 3 client5
+11:31 2 -elena5- 4
+12:00 1 _john1234
+12:15 3 _john1234
+12:47 4 -client1-
+13:20 4 client2
+14:02 4 -elena5-
+14:14 4 _serg23_
+15:29 3 _kent13
+17:48 4 client3
+18:21 1 client5
+18:37 4 _den09
+18:41 3 client5
+19:00 2 client5 1
